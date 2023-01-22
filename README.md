@@ -1,3 +1,6 @@
+Passed the first certification.  Focused on html in this certification to see if I understood coding a basic form.  Need to work on labels and linking it to CSS file
+
+
 <!DOCTYPE html>
 <html lang="en">
   <head>
