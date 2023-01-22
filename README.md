@@ -1,4 +1,4 @@
-Passed the first certification.  Focused on html in this certification to see if I understood coding a basic form.  Need to work on labels and linking it to CSS file
+Passed the first certification.  Focused on html in this certification to see if I understood coding a basic form.  Need to work on labels and linking it to CSS file.  Also need to work out how to upload these files to GitHub in a better format.  They work fine on freeCodeCamp, so further research required on using this website.
 
 
 <!DOCTYPE html>
